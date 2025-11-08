@@ -16,15 +16,15 @@ BloodBridge is a web-based platform designed to streamline emergency blood reque
 
 ## Emergency Blood Request 
 
-![Emergency Blood Request Page : ](https://drive.google.com/uc?export=view&id=1qJtlQ5VOb8TGGSzS1-0A97VfRA3v-So4)
+![Emergency Blood Request Page : ](https://drive.google.com/file/d/1kjDzuqCvzHNuIadlFVA-b_u9w_1Cqc1H/view)
 
 ## Donor Management
 
-![Donor Management Page : ](https://drive.google.com/uc?export=view&id=1Lvx6cp1Z-fp0lDQonOESP5nCpWGvYmvn)
+![Donor Management Page : ](https://drive.google.com/file/d/1m3Dc9BqDA-DE8HbYoE-zyHmglAsn4EHD/view)
 
 ## Blood Bank Inventory
 
-![Blood Bank Inventory Page : ](https://drive.google.com/uc?export=view&id=1rHu3WzmgpJ4POtRlHToU4ZVxLfBYZsZO)
+![Blood Bank Inventory Page : ](https://drive.google.com/file/d/1sXsBSV3OpvcFRzzqHBdUrNINpaxavC7H/view)
 
 
 ## Project Structure
